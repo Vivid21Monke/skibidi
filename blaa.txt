@@ -1,0 +1,2 @@
+Uzdevums: uzspiezod uz pogas generejas 3 dazaadi random skaiaiyli no 69 lidz 1422;
+
